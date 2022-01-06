@@ -11,4 +11,4 @@ This is Example GA4 custom event network graphs powered by Cytoscape.
 1. Install python vscode extentions.
 1. Install jupyter vscode extentions.
 1. Clone this repository.
-1. Open notebook [01_getting_started.ipynb](./01_getting_started.ipynb).
+1. Open notebook [00_getting_started.ipynb](./00_getting_started.ipynb).
